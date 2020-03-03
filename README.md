@@ -1,2 +1,2 @@
-# libfacedetection width winograd
+# libfacedetection with winograd
 
